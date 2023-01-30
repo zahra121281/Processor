@@ -1,2 +1,2 @@
 # Myprojects
-this repozitory contains my projects which are created whiles studing in iust .
+this repo contains my projects which are created while studing at iust .
